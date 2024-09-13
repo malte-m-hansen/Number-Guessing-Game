@@ -1,0 +1,7 @@
+C:\Users\malte\OneDrive\Work\Code\Visual Studio\Fun Projects\Number guessing game\Number guessing game\Number guessing game\bin\Debug\Number guessing game.exe.config
+C:\Users\malte\OneDrive\Work\Code\Visual Studio\Fun Projects\Number guessing game\Number guessing game\Number guessing game\bin\Debug\Number guessing game.exe
+C:\Users\malte\OneDrive\Work\Code\Visual Studio\Fun Projects\Number guessing game\Number guessing game\Number guessing game\bin\Debug\Number guessing game.pdb
+C:\Users\malte\OneDrive\Work\Code\Visual Studio\Fun Projects\Number guessing game\Number guessing game\Number guessing game\obj\Debug\Number guessing game.csprojAssemblyReference.cache
+C:\Users\malte\OneDrive\Work\Code\Visual Studio\Fun Projects\Number guessing game\Number guessing game\Number guessing game\obj\Debug\Number guessing game.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Work\Code\Visual Studio\Fun Projects\Number guessing game\Number guessing game\Number guessing game\obj\Debug\Number guessing game.exe
+C:\Users\malte\OneDrive\Work\Code\Visual Studio\Fun Projects\Number guessing game\Number guessing game\Number guessing game\obj\Debug\Number guessing game.pdb
